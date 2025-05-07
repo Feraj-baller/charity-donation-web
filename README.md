@@ -128,7 +128,7 @@ This project is available for educational and non-commercial use. For commercial
 
 ## Support
 
-For questions or support, please contact [your-email@example.com].
+For questions or support, please contact [feranmiakinsanya3@example.com].
 
 ---
 
